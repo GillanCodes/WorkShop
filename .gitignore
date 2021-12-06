@@ -1,0 +1,24 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/workshop-reactapp/node_modules
+/workshop-reactapp/public/img
+/workshop-reactapp/.pnp
+/workshop-reactapp/.pnp.js
+
+# testing
+/workshop-reactapp/coverage
+
+# production
+/workshop-reactapp/build
+
+# misc
+/workshop-reactapp/.DS_Store
+/workshop-reactapp/.env.local
+/workshop-reactapp/.env.development.local
+/workshop-reactapp/.env.test.local
+/workshop-reactapp/.env.production.local
+
+/workshop-reactapp/npm-debug.log*
+/workshop-reactapp/yarn-debug.log*
+/workshop-reactapp/yarn-error.log*
